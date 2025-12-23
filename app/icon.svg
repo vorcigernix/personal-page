@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#000000"/>
+  
+  <!-- A -->
+  <path d="M 45 150 L 70 70 L 95 150 M 55 120 L 85 120" 
+        stroke="#FFFFFF" 
+        stroke-width="8" 
+        stroke-linecap="square" 
+        fill="none"/>
+  
+  <!-- S -->
+  <path d="M 135 80 L 115 80 L 115 105 L 135 105 L 135 130 L 115 130" 
+        stroke="#FFFFFF" 
+        stroke-width="8" 
+        stroke-linecap="square" 
+        fill="none"/>
+  
+  <!-- Divider line -->
+  <line x1="100" y1="60" x2="100" y2="140" 
+        stroke="#FFFFFF" 
+        stroke-width="2"/>
+</svg>
+
