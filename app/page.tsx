@@ -81,7 +81,7 @@ export default function Page() {
     },
     {
       company: "Smartsupp",
-      period: "May 2023 - 2024",
+      period: "2023 - 2024",
       title: "CTO",
       description: [
         "Working with the rest of the leadership on strategic planning and translating the strategy into technology improvements.",
@@ -95,29 +95,29 @@ export default function Page() {
     },
     {
       company: "Developer DAO",
-      period: "March 2022-Present",
-      title: "Mentoring, OKRs Initiative.",
+      period: "2022-Present",
+      title: "Advisor, OKRs Initiative",
       description: [
-        "Helped initiative to establish OKRs.",
-        "Mentoring management practices.",
-        "Mentoring fullstack web3 development."
+        "Helped the initiative establish OKRs.",
+        "Mentored teams on management practices.",
+        "Mentored developers on fullstack web3 development."
       ],
       link: "https://developerdao.com",
     },
     {
       company: "Blockenberg",
-      period: "February 2023-Present",
+      period: "2023-Present",
       title: "Founder/CTO",
       description: [
-        "Decentralized CMS",
-        "Built the whole system that allow content creation with a friendly UI.",
-        "This CMS publish all the content to the user owned IPFS decentralized network."
+        "Founded and built a decentralized content management system.",
+        "Developed a user-friendly interface that allows content creation with ease.",
+        "Enabled content publishing to user-owned IPFS decentralized networks."
       ],
       link: "https://blockenberg.xyz",
     },
     {
       company: "Emplifi",
-      period: "June 2021 - April 2022",
+      period: "2021 - 2022",
       title: "Director of Engineering",
       description: [
         "Spearheaded the successful merger of engineering departments from four different companies.",
@@ -129,7 +129,7 @@ export default function Page() {
     },
     {
       company: "Socialbakers",
-      period: "October 2019 - June 2022",
+      period: "2019 - 2022",
       title: "Director of Engineering",
       description: [
         "Designed and implemented a comprehensive career development plan to nurture talent within the organization.",
@@ -143,7 +143,7 @@ export default function Page() {
     },
     {
       company: "2Fresh",
-      period: "April 2017 - March 2018",
+      period: "2017 - 2018",
       title: "Delivery Lead",
       description: [
         "Designed and executed a comprehensive operations management strategy to optimize organizational efficiency.",
