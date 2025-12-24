@@ -71,10 +71,10 @@ export default function Page() {
       period: "2024-Present",
       title: "CTO",
       description: [
-        "Helping customers understand their customers through innovative data solutions.",
-        "Building a privacy-friendly Customer Data Platform (CDP) that can run on any infrastructure.",
-        "Leading technology strategy and platform architecture decisions.",
-        "Mentoring and advising other startups on technical leadership and product development."
+        "Leading the technology organization building a privacy-friendly Customer Data Platform that runs on any infrastructure.",
+        "Setting technical vision and strategy while enabling teams to make effective decisions.",
+        "Fostering engineering culture and practices that support sustainable product development.",
+        "Collaborating with leadership on product strategy and go-to-market initiatives."
       ],
       link: "https://meiro.io",
       image: "/meiro.jpg"
